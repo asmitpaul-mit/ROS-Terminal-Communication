@@ -1,1 +1,1 @@
-#Demonstraing communication between two terminals using ROS
+Demonstraing communication between two terminals using ROS
